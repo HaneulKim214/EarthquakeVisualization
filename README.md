@@ -4,7 +4,7 @@
 
 ## Project Status: Finished
 
-Earthquakes along with other natural disasters have been hard to predict and its unexpected occurence brings lot of damage to the region where disaster takes place. It is essential to know where earthquake starts happening or before happening. Maybe past 7 days earthquake activity will provide some insight on next earthquakes that may be devastating. Find a pattern and lets reduce damage.
+Earthquakes along with other natural disasters have been hard to predict and its unexpected occurence brings lot of damage to the region where disaster takes place. It is essential to know where earthquake starts happening or before happening. Past 7 days earthquake activity will provide some insight on next earthquakes that may be devastating. Find a pattern and lets reduce damage.
 
 **Goal:** 
 - Earthquake data retrieved from [here](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) which are in geoJSON format, used it to visualize past 7 days of earthquake activity. 
