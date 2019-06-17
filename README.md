@@ -1,5 +1,7 @@
 # EarthquakeVisualization
 
+![gif](static/images/earthquake.gif)
+
 ## Project Status: Finished
 
 
